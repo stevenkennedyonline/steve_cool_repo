@@ -1,2 +1,2 @@
-# steve_cool_repo
-Steve's repo for learning fun things about GitHub
+# steven_cool_repo
+Steven's repo for learning fun things about GitHub
